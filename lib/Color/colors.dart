@@ -3,14 +3,14 @@ import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 
 Color PrimaryColors(){
-  return Color.fromRGBO(128,90,70,100);
+  return Color.fromRGBO(23, 127, 245, 0.612);
 }
 Color PrimaryColorsDark(){
-  return Color.fromRGBO(250,240,70,100);
+  return Color.fromARGB(156, 12, 71, 138);
 }
 Color SecondaryColors(){
-  return Color.fromRGBO(250,240,190,100);
+  return Color.fromRGBO(118, 180, 252, 0.612);
 }
 Color SecondaryColors2(){
-  return Color.fromRGBO(250,240,190,100);
+  return Color.fromRGBO(118, 180, 252, 0.612);
 }

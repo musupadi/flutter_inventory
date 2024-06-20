@@ -1,6 +1,6 @@
 String getServerName(){
-  return 'http://10.1.3.193/kopilancong/';
+  return 'http://localhost:8080';
 }
-String Login(){
-  return 'api/user/login';
+String stringLogin(){
+  return '/Login';
 }

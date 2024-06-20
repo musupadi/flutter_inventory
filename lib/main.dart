@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'Splash.dart';
 import 'Login.dart';
+import 'Route.dart';
 import 'Color/colors.dart' as NewColor;
 void main() {
   runApp(SidebarApp ());
@@ -17,7 +19,7 @@ class SidebarApp extends StatelessWidget {
         fontFamily: 'gotham'
       ),
       debugShowCheckedModeBanner: false,
-      home: Login(),
+      home: Splash()
     );
   }
 }
